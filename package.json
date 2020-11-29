@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-weeks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Weeks for next.",
   "homepage": "https://github.com/afeiship/next-weeks",
   "author": {
@@ -46,6 +46,8 @@
     "weekly",
     "en",
     "cn",
-    "emoji"
+    "emoji",
+    "date",
+    "day"
   ]
 }
