@@ -23,10 +23,10 @@
       expect(NxWeeks.day(d1.getDay(), 'cn')).toBe('一');
       expect(NxWeeks.day(d2.getDay(), 'cn')).toBe('二');
       expect(NxWeeks.day(d3.getDay(), 'cn')).toBe('三');
-      expect(NxWeeks.day(d4.getDay(), 'cn')).toBe('四');
-      expect(NxWeeks.day(d5.getDay(), 'cn')).toBe('五');
-      expect(NxWeeks.day(d6.getDay(), 'cn')).toBe('六');
-      expect(NxWeeks.day(d7.getDay(), 'cn')).toBe('日');
+      expect(NxWeeks.day(d4, 'cn')).toBe('四');
+      expect(NxWeeks.day(d5, 'cn')).toBe('五');
+      expect(NxWeeks.day(d6, 'cn')).toBe('六');
+      expect(NxWeeks.day(d7, 'cn')).toBe('日');
     });
   });
 })();

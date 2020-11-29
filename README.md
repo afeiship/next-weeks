@@ -40,13 +40,14 @@ const d5 = new Date('2020-11-27');
 const d6 = new Date('2020-11-28');
 const d7 = new Date('2020-11-29');
 
+// number or date instance
 NxWeeks.day(d1.getDay(), 'cn')  // '一'
 NxWeeks.day(d2.getDay(), 'cn')  // '二'
 NxWeeks.day(d3.getDay(), 'cn')  // '三'
-NxWeeks.day(d4.getDay(), 'cn')  // '四'
-NxWeeks.day(d5.getDay(), 'cn')  // '五'
-NxWeeks.day(d6.getDay(), 'cn')  // '六'
-NxWeeks.day(d7.getDay(), 'cn')  // '日'
+NxWeeks.day(d4, 'cn')  // '四'
+NxWeeks.day(d5, 'cn')  // '五'
+NxWeeks.day(d6, 'cn')  // '六'
+NxWeeks.day(d7, 'cn')  // '日'
 ```
 
 ## emoji
