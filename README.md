@@ -49,6 +49,15 @@ NxWeeks.day(d6.getDay(), 'cn')  // '六'
 NxWeeks.day(d7.getDay(), 'cn')  // '日'
 ```
 
+## emoji
+- 周一(Mon) 😝
+- 周二(Tue) 😪
+- 周三(Wed) 😭
+- 周四(Thur) 🤪
+- 周五(Fri) 🤣
+- 周六(Sat) 😎
+- 周日(Sun) 😂
+
 ## license
 Code released under [the MIT license](https://github.com/afeiship/next-weeks/blob/master/LICENSE.txt).
 
