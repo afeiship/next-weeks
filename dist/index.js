@@ -3,7 +3,7 @@
  * description: Weeks for next.
  * homepage: https://github.com/afeiship/next-weeks
  * version: 1.0.0
- * date: 2020-11-29 21:21:00
+ * date: 2020-11-29 21:23:18
  * license: MIT
  */
 
