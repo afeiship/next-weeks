@@ -5,7 +5,7 @@
   var DATABASE = {
     en: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
     shorty: ['Mon', 'Tue', 'Wed', 'Thur', 'Fri', 'Sat', 'Sun'],
-    emoji: ['😝', '😪', '😭', '🤪', '😎', '😂'],
+    emoji: ['😝', '😪', '😭', '🤪', '🤣', '😎', '😂'],
     cn: ['一', '二', '三', '四', '五', '六', '日']
   };
 
