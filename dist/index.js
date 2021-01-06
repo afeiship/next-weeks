@@ -2,8 +2,8 @@
  * name: @jswork/next-weeks
  * description: Weeks for next.
  * homepage: https://github.com/afeiship/next-weeks
- * version: 1.0.1
- * date: 2020-11-29 21:30:35
+ * version: 1.0.2
+ * date: 2020-12-29 08:32:27
  * license: MIT
  */
 
@@ -14,7 +14,7 @@
   var DATABASE = {
     en: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
     shorty: ['Mon', 'Tue', 'Wed', 'Thur', 'Fri', 'Sat', 'Sun'],
-    emoji: ['😝', '😪', '😭', '🤪', '😎', '😂'],
+    emoji: ['😝', '😪', '😭', '🤪', '🤣', '😎', '😂'],
     cn: ['一', '二', '三', '四', '五', '六', '日']
   };
 
