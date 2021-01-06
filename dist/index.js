@@ -2,13 +2,13 @@
  * name: @jswork/next-weeks
  * description: Weeks for next.
  * homepage: https://github.com/afeiship/next-weeks
- * version: 1.0.2
- * date: 2020-12-29 08:32:27
+ * version: 1.0.3
+ * date: 2021-01-06 22:45:22
  * license: MIT
  */
 
 (function () {
-  var global = global || this || window || Function('return this')();
+  var global = global || window || Function('return this')();
   var nx = global.nx || require('@jswork/next');
   var NUMBER = 'number';
   var DATABASE = {
