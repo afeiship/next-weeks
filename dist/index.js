@@ -2,8 +2,8 @@
  * name: @jswork/next-weeks
  * description: Weeks for next.
  * homepage: https://github.com/afeiship/next-weeks
- * version: 1.0.3
- * date: 2021-01-06 22:45:22
+ * version: 1.0.4
+ * date: 2021-01-09 16:25:26
  * license: MIT
  */
 
