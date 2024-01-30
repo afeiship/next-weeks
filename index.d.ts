@@ -4,7 +4,7 @@ type WeekIndex = 0 | 1 | 2 | 3 | 4 | 5 | 6;
 
 interface NxStatic {
   Weeks: {
-    at: (index: WeekIndex, type: WeekType) => string;
-    day: (target: WeekDay | Date, type: WeekType) => string;
-  }
+    at: (index: WeekIndex | number, type: WeekType) => string;
+    day: (target: WeekDay | number | Date, type: WeekType) => string;
+  };
 }
