@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-weeks",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Weeks for next.",
   "homepage": "https://js.work",
   "author": {
@@ -43,5 +43,20 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
-  }
+  },
+  "keywords": [
+    "next",
+    "nx",
+    "jswork",
+    "weekend",
+    "weekday",
+    "weeks",
+    "week",
+    "weekly",
+    "en",
+    "cn",
+    "emoji",
+    "date",
+    "day"
+  ]
 }
